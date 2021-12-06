@@ -1,0 +1,19 @@
+{
+  "name": "halfstring/baidudisk-sync-aliyundrive-php",
+  "autoload": {
+    "psr-4": {
+      "BaiduDiskSyncAliyunDrive\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "halfstring",
+      "email": "i@halfstring.com"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^5.4",
+    "symfony/console": "v5.3",
+    "guzzlehttp/guzzle": "^7.4"
+  }
+}
